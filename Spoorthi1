@@ -1,0 +1,23 @@
+print(" I had a ______");
+print("who was so _______");
+print("He could not even sit on his ______");
+print(" He had a ________");
+print(" that did not ______");
+print(" He put it on and then it split");
+
+
+print("Enter your choice of words in your mad lib");
+
+word1=input();
+word2=input();
+word3=input();
+word4=input();
+word5=input();
+
+
+print(" I had a "+word1);
+print("who was so "+word2);
+print("He could not even sit on his "+word3);
+print(" He had a "+word4);
+print(" that did not "+word5);
+print(" He put it on and then it split");
